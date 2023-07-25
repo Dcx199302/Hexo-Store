@@ -15,9 +15,6 @@ menu:
 
 rss_dir: atom.xml
 
-css:
-  - /source/css/main.css
-
 # widget
 ga: # google analytics tracking code UA-XXXXXXX-X
 baidutongji: # baidutongji tracking code
