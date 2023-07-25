@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: My Blog
-description: My Blog Description
-author: HiiTea
+title: 成东
+description: 博客文章
+author: chengdong
 language: zh-CN
 timezone: Asia/Shanghai
 favicon: https://assets-cdn.github.com/favicon.ico
@@ -82,8 +82,8 @@ gcs: # GOOGLE CUSTOM SEARCH
 baidutongji: # BAIDU TONGJI CODE
 disqus: # DISQUS ID
 
-location: Hong Kong
-email: xx@example.com
+location: GuangDong JiangMen
+email: 875777289@qq.com
 
 avatar: https://avatars2.githubusercontent.com/u/5300359?v=4&s=460
 social:
