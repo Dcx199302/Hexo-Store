@@ -14,7 +14,7 @@ favicon: https://assets-cdn.github.com/favicon.ico
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 # url: http://sabrinaluo.com/tech
 url: https://hexo-store-1gmxyeqrfa257e99-1304082097.ap-shanghai.app.tcloudbase.com/
-root: /tech/
+root: /hexo-theme-replica/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
